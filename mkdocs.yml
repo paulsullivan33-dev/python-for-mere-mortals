@@ -1,0 +1,21 @@
+site_name: Python for Mere Mortals
+site_description: Plain-language Python guides — no CS degree required.
+site_url: https://paulsullivan33-dev.github.io/python-for-mere-mortals/
+
+# Guides live at the repo root (nice for GitHub browsing).
+# The deploy workflow copies them into docs/ before building.
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - What Python Is: what-python-is.md
+  - Installing Python: installing-python.md
+  - Your First Program: first-program.md
+  - Variables and Types: variables-and-types.md
+  - Control Flow: control-flow.md
+  - Functions: functions.md
+  - Files and Data: files-and-data.md
+  - Troubleshooting: troubleshooting.md
+  - Glossary: glossary.md
+  - Writing Criteria: criteria.md
